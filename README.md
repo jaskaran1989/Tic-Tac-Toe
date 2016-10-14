@@ -8,3 +8,4 @@ to choose one of the  numerical position displayed on the grid from 1 to 9 as so
 placed on that position, now system will ask for playero to enter and repeat same steps as it did for player x ans as soon as any player 
 reach where they have there alpabets in a a sigle line game will declare that player win.
 
+<img src="https://github.com/jaskaran1989/Tic-Tac-Toe/blob/master/game-screen.png?raw=true" />
