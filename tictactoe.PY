@@ -113,9 +113,9 @@ r=(b-1)//3  ## calculation for row position
 
 while((gwin==False) and (size>0) ):
         c=(b-1)%3   ## calculation of colums position
-        print (c)
+       
         r=(b-1)//3  ## calculation for row position
-        print (r)
+       
         ##if statement mentioned under is doing work for overlapping 
         if (a[r][c]==1 or a[r][c]== 2 or a[r][c]==3 or a[r][c]==4 or a[r][c]==5 or a[r][c]==6 or a[r][c]==7 or a[r][c]==8 or a[r][c]==9 ):
                 print()                                                                                                                    
